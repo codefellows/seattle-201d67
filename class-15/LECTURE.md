@@ -60,7 +60,22 @@
 
 ## Code 301 Preview
 
+- In 201, we built apps using only the set of feature available to the Browser.
+- 301 moves away from the browser and starts to have us program a server.
+  - Things that wer available before (document, window, prompt, confirm).
+  - We move towards installing software via nodeJS.
+  - Focus a mojority of our time on the Web Request Responce Cycle ( how computer communicate over an internet connection).
+  - Move towards more libraries
+    - JQuery
+    - AJAX (asynchronous javascript).
+      - sometimes a line of code needs extra time to finish.
+    - Postgres SQL.
 - Things to read and do during the break.
+  - Read about Nodejs.
+  - Read about Asynchnous jS
+  - Prework, letting you practice JS stuff.
+    - Constructor Functions
+    - Callback functions.
 
 
 ## Project Kickoff
